@@ -1,121 +1,87 @@
-# 👋 Hi, I'm Hoang Phuc
+# HOANG PHUC
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Development+Enthusiast;Node.js+%7C+TypeScript+Developer;Building+Scalable+%26+Secure+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1500&color=FFCC00&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+systems+with+Node.js+%26+TypeScript;Clean+Code.+Scalable+Systems.+Security." />
 
 <br/>
 
-**Passionate about Backend Development & Software Architecture**
+**FULL-STACK DEVELOPER · BACKEND FOCUSED**
 
-Building clean, scalable, maintainable, and secure server-side applications.
+Vietnam 🇻🇳
+
+</div>
+
+---
+
+### ABOUT
+
+I'm Hoang Phuc, a Full-Stack Developer with a strong focus on Backend Development.
+
+I enjoy building server-side applications with an emphasis on clean architecture, scalability, security, and maintainability.
+
+Currently exploring better ways to design backend systems, build reliable APIs, and write software that is easy to maintain.
+
+**Currently working with:** Node.js · TypeScript
+
+**Interested in:** Backend Architecture · System Design · Database Optimization · Application Security
+
+---
+
+### TECHNOLOGIES
+
+**Backend**
+
+`Node.js` `Express.js` `TypeScript` `JavaScript`
+
+**Database**
+
+`MongoDB` `MySQL` `PostgreSQL` `Firebase` `Prisma` `Raw SQL`
+
+**Authentication & Security**
+
+`JWT` `Refresh Token` `Cookies` `bcrypt`
+
+**Tools & Infrastructure**
+
+`Git` `GitHub` `Docker` `AWS` `Linux`
+
+---
+
+### GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=PhucLe186&show_icons=true&theme=transparent&hide_border=true&title_color=FFCC00&icon_color=DA251D&text_color=CCCCCC" />
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucLe186&layout=compact&theme=transparent&hide_border=true&title_color=FFCC00&text_color=CCCCCC" />
+
+</div>
+
+---
+
+### CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PhucLe186/PhucLe186/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+### CONNECT
+
+<div align="center">
+
+[GitHub](https://github.com/PhucLe186) · [Portfolio](https://phucspace.vercel.app) · [Email](mailto:hoangphuckaito1806@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PhucLe186&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 💻 Currently working with **Node.js & TypeScript**
-- ⚙️ Passionate about **Backend Architecture & System Design**
-- 🔐 Experienced in Authentication: JWT, Refresh Tokens & Cookies
-- 🗄️ Interested in Database Design & Query Optimization
-- 🧹 Focused on Clean Code, Error Handling & Maintainable Systems
-- 🎯 Goal: Become a Professional Backend Developer
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" />
-</p>
-
-### 🗄️ Database & ORM
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma" />
-</p>
-
-### 🔐 Authentication & Security
-
-- JWT (Access Token / Refresh Token)
-- Cookie-based Authentication
-- Password Hashing (bcrypt)
-- Authentication & Authorization
-
-### ⚙️ Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
-</p>
-
-### 🏗️ Architecture & Concepts
-
-- RESTful API Design
-- MVC Architecture
-- Layered Architecture
-- Clean Code Principles
-- Error Handling & Validation
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhucLe186&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucLe186&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/VIETNAM-DA251D?style=flat-square&labelColor=DA251D" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PhucLe186&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PhucLe186/PhucLe186/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/PhucLe186">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://phucspace.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Great software is built with clean code, thoughtful architecture, and continuous learning."
-
-⭐ If you find my projects useful, feel free to give them a star!
+*Rooted in Vietnam. Building for the world.*
 
 </div>
