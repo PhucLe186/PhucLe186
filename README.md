@@ -1,71 +1,56 @@
-# HOANG PHUC
+# Hi, I'm Le ***Hoang Phuc***
 
-<div align="center">
-
-<img src="./assets/heritage.svg" width="100%" alt="Vietnamese heritage inspired gold pattern" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=23&duration=4500&pause=1800&color=BCA477&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%26+TypeScript;Building+software+with+purpose" alt="Introduction" />
-
-<br/>
-
-<sub>FULL-STACK DEVELOPER &nbsp; / &nbsp; BACKEND ENGINEERING</sub>
-
-<br/><br/>
-
-</div>
+I'm a **Full-Stack Developer** with a strong passion for **Backend Development**.
+I'm a backend developer focused on building **clean, scalable, and secure server-side applications**.  
+I enjoy designing RESTful APIs, handling authentication flows, and structuring backend systems in a maintainable way.
 
 ---
 
-### PROFILE
+## About Me
 
-I'm Hoang Phuc, a developer focused on backend engineering.
-
-I enjoy designing and building server-side applications, from RESTful APIs and authentication systems to database structures and application architecture.
-
-My focus is on writing software that is maintainable, secure, and built to scale.
-
-### CURRENT FOCUS
-
-- Backend development with Node.js and TypeScript
-- RESTful API design and authentication
-- Database design and query optimization
-- Clean architecture and error handling
-- Exploring cloud infrastructure and Linux
-
-### TECHNICAL SKILLS
-
-**Languages & Backend**
-
-Node.js · TypeScript · JavaScript · Express.js
-
-**Databases**
-
-MongoDB · MySQL · PostgreSQL · Firebase
-
-**Data Access**
-
-Prisma · Raw SQL
-
-**Security**
-
-JWT · Refresh Tokens · Cookies · bcrypt
-
-**Infrastructure & Tools**
-
-AWS · Linux · Docker · Git · GitHub
+- Currently working with **Node.js & TypeScript**
+- Interested in **Backend Architecture**, **Clean Code**, and **Error Handling**
+- Experienced with authentication systems (JWT, Refresh Token, Cookies)
+- Goal: Become a **professional Backend Developer**
 
 ---
 
-### GITHUB
+## Tech Stack
 
-<div align="center">
+### Backend
+- Node.js  
+- Express.js  
+- TypeScript
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhucLe186&show_icons=true&hide_border=true&bg_color=00000000&title_color=BCA477&text_color=999999&icon_color=BCA477&hide=issues" width="85%" />
+### Database
+- FireBase(database realtime)
+- Mongodb
+- MySQL
+- PostgreSQL  
+- Prisma / Raw SQL
 
-</div>
+### Authentication & Security
+- JWT (Access Token / Refresh Token)
+- Cookie-based Authentication
+- Password hashing (bcrypt)
+
+### Tools & Concepts
+- Git & GitHub  
+- Docker (basic)  
+- RESTful API
+- Aws
+- linux
+- MVC / Layered Architecture
 
 ---
 
-###
+## Contact
+
+- Email: hoangphuckaito1806@gmail 
+- GitHub: https://github.com/PhucLe186/
+- Portfolio: https://phucspace.vercel.app
+
+---
+
+If you find my projects useful, feel free to give them a **star**!
+ t muốn sửa lại cho có hiệu ứng động luôn được không giúp tôi 
