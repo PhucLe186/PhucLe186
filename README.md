@@ -1,69 +1,73 @@
-# HOANG PHUC
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e40af&height=150&section=header&text=Le+Hoang+Phuc&fontColor=ffffff&fontSize=42&fontAlignY=50&animation=fadeIn" alt="Le Hoang Phuc" />
 
-<div align="center">
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Backend+Developer;Node.js+%C2%B7+TypeScript;REST+API+%C2%B7+Authentication+%C2%B7+Database+Design" alt="Typing SVG" />
+</p>
 
-<img src="./assets/dong-son-pattern.svg" width="100%" alt="Dong Son inspired geometric pattern" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1800&color=C6A66B&center=true&vCenter=true&width=550&lines=Backend+Developer;Node.js+%2F+TypeScript;Designing+reliable+backend+systems" alt="Introduction animation" />
-
-<br/>
-
-*Full-Stack Developer · Backend Focused*
-
-</div>
-
----
-
-### ABOUT
-
-I'm a developer interested in building reliable software systems, with a strong focus on backend development.
-
-My work revolves around designing RESTful APIs, implementing authentication flows, and organizing server-side applications with an emphasis on maintainability, security, and scalability.
-
-Currently working with **Node.js** and **TypeScript**, while continuously exploring backend architecture and system design.
-
----
-
-### TECHNOLOGIES
-
-| Category | Technologies |
-|:--|:--|
-| Backend | Node.js, Express.js, TypeScript |
-| Database | MongoDB, MySQL, PostgreSQL, Firebase |
-| ORM / Query | Prisma, Raw SQL |
-| Authentication | JWT, Refresh Tokens, Cookies, bcrypt |
-| Infrastructure | AWS, Linux, Docker |
-| Tools | Git, GitHub |
-
----
-
-### GITHUB
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=PhucLe186&show_icons=true&hide_border=true&bg_color=00000000&title_color=C6A66B&text_color=AAAAAA&icon_color=C6A66B" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucLe186&layout=compact&hide_border=true&bg_color=00000000&title_color=C6A66B&text_color=AAAAAA" />
-
-</div>
-
----
-
-### CONTACT
-
-- GitHub: [PhucLe186](https://github.com/PhucLe186)
-- Portfolio: [phucspace.vercel.app](https://phucspace.vercel.app)
-
----
-
-<div align="center">
-
-<sub>VIETNAM · BUILDING WITH PURPOSE</sub>
+<p align="center">
+  <a href="https://phucspace.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:hoangphuckaito1806@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PhucLe186"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 <br/>
 
-<sub>Rooted in heritage. Focused on engineering.</sub>
+## About
 
-</div>
+Mình là backend developer, làm việc chủ yếu với Node.js và TypeScript.
+Mình quan tâm đến cách tổ chức code phía server, thiết kế REST API,
+luồng xác thực (JWT, refresh token, cookie) và xử lý lỗi cho nhất quán.
+
+Mục tiêu hiện tại: đi sâu hơn vào kiến trúc backend và hạ tầng triển khai.
+
+<br/>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+    </td>
+  </tr>
+</table>
+
+<sub>Auth: JWT (access / refresh token), cookie-based session, bcrypt &nbsp;·&nbsp; Architecture: MVC, layered</sub>
+
+<br/>
+
+## Projects
+
+<!-- Thay bằng project thật của bạn. Có thể dùng pin repo của GitHub thay cho phần này. -->
+
+| Project | Mô tả | Stack |
+| :-- | :-- | :-- |
+| [tên-repo-1](https://github.com/PhucLe186/tên-repo-1) | Mô tả ngắn 1 dòng | Node.js, PostgreSQL |
+| [tên-repo-2](https://github.com/PhucLe186/tên-repo-2) | Mô tả ngắn 1 dòng | Express, MongoDB |
+
+<br/>
+
+## GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PhucLe186&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=9ca3af&hide_title=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucLe186&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=9ca3af" />
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e40af&height=60&section=footer" />
