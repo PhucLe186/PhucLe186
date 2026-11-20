@@ -1,128 +1,125 @@
-# 🌌 PHUCVERSE — Exploring the Universe of Code
+[PHUCVERSE](#home)
 
-<div align="center">
+- [Home](#home)
+- [About](#about)
+- [Tech Stack](#stack)
+- [Projects](#projects)
+- [GitHub](#github)
+- [Contact](#contact)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:312E81,100:6C63FF&height=220&section=header&text=LE%20HOANG%20PHUC&fontSize=45&fontColor=E2E8F0&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20COSMIC%20ENGINEER&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+PHUCVERSE // PERSONAL SPACE STATION
 
-[![GitHub](https://img.shields.io/badge/GitHub-PhucLe186-181717?style=for-the-badge&logo=github)](https://github.com/PhucLe186)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://phucspace.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangphuckaito1806@gmail.com)
+SYSTEM ONLINE
 
-**Exploring the universe of code, building systems beyond limits.**
+# Hi, I’m Le Hoang Phuc
 
-</div>
+Backend Developer
 
----
+Exploring the universe of code, building systems beyond limits.
 
-## 🛰️ MISSION PROFILE
+I build clean, scalable, and secure backend systems. Passionate about API design, authentication, backend architecture, and maintainable software.
 
-> `IDENTITY: BACKEND ENGINEER`
-> 
-> `LOCATION: DIGITAL UNIVERSE`
-> 
-> `STATUS: EXPLORING`
+Node.jsTypeScriptExpress.jsPostgreSQL
 
-Hi! I'm **Le Hoang Phuc**, a Full-Stack Developer with a strong passion for Backend Engineering.
+[Explore My Missions](#projects)[Establish Connection](#contact)
 
-I enjoy designing and building clean, scalable, and secure server-side applications. My interests include RESTful APIs, authentication systems, database design, and backend architecture.
+MISSION PROFILE // 001
 
-- 🚀 Currently exploring **Node.js & TypeScript**
-- 🌌 Interested in **Backend Architecture & Clean Code**
-- 🔐 Working with JWT, Refresh Tokens, Cookies & Password Hashing
-- ⚙️ Passionate about maintainable and scalable systems
-- 🎯 Mission: Become a Professional Backend Engineer
+## About The Engineer
 
----
+Hello! I’m Le Hoang Phuc, a developer passionate about Backend Engineering.
 
-## ⚙️ ENGINEERING ARSENAL
+I enjoy designing RESTful APIs, implementing authentication systems, handling errors, and structuring backend applications with clean and maintainable architecture.
 
-*The technologies powering my universe.*
+I’m continuously exploring new technologies and improving my engineering skills.
 
-### 🚀 Core Engine
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" />
-</p>
+- Currently exploring Node.js & TypeScript.
+- Interested in Backend Architecture and Clean Code.
+- Experienced with JWT, Refresh Tokens, Cookies, and Password Hashing.
+- Goal: Become a Professional Backend Engineer.
 
-### 🪐 Data Systems
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma" />
-</p>
+name
 
-### 🔐 Security Protocols
-- JWT Authentication
-- Access Token & Refresh Token
-- Cookie-based Authentication
-- Password Hashing with bcrypt
+Le Hoang Phuc
 
-### ☁️ Infrastructure & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
-</p>
+role
 
-### 🧠 Engineering Principles
-- RESTful API Design
-- MVC & Layered Architecture
-- Clean Code
-- Error Handling
-- Database Management
-- Secure Authentication
+Backend Developer
 
----
+focus
 
-## 🌠 MISSION ARCHIVE
+APIs, auth, architecture
 
-*Every project is another mission in my engineering journey.*
+runtime
 
-<!-- Replace these placeholders with your actual projects -->
+Node.js + TypeScript
 
-| Mission | Description | Technologies |
-|:---|:---|:---|
-| 🚀 Mission 001 | Your Project Name | Node.js · TypeScript |
-| 🛰️ Mission 002 | Your Project Name | Express · MongoDB |
-| 🌌 Mission 003 | Your Project Name | PostgreSQL · Prisma |
+status
 
-*More missions are coming. Stay tuned!*
+online
 
----
+TECHNOLOGY SYSTEMS // 002
 
-## 📡 SPACE TELEMETRY
+## My Engineering Arsenal
 
-*Monitoring my activity across the GitHub universe.*
+MISSION ARCHIVE // 003
 
-<div align="center">
+## Projects & Missions
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PhucLe186&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0" />
+MISSION 001STATUS: PLACEHOLDER
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucLe186&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=A78BFA&text_color=E2E8F0" />
+### Authentication System
 
-<img src="https://streak-stats.demolab.com?user=PhucLe186&theme=tokyonight&hide_border=true&background=080B18&ring=A78BFA&fire=38BDF8&currStreakLabel=E2E8F0" width="70%" />
+Placeholder: add a short description of your project here.
 
-</div>
+Tech TBD
 
----
+[GitHub repository (add link)](https://github.com/PhucLe186/)
 
-## 🌌 BEYOND THE CODE
+MISSION 002STATUS: PLACEHOLDER
 
-*The universe is vast, and there is always something new to discover.*
+### RESTful API Platform
 
-I believe that becoming a great engineer is a continuous journey of learning, experimenting, and building.
+Placeholder: add a short description of your project here.
 
-My goal is not just to write code, but to understand the systems behind it and create solutions that are reliable, maintainable, and meaningful.
+Tech TBD
 
----
+[GitHub repository (add link)](https://github.com/PhucLe186/)
 
-## 📬 ESTABLISH CONNECTION
+MISSION 003STATUS: PLACEHOLDER
 
-<div align="center">
+### Backend Management System
 
-### Have an interesting idea? Let's connect across the universe.
+Placeholder: add a short description of your project here.
 
-[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangphuckaito1806@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/PhucLe186)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Space-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phucspace.vercel.app)
+Tech TBD
 
-**"Every great journey begins with a single line of code."**
+[GitHub repository (add link)](https://github.com/PhucLe186/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:312E81,100:080B18&height=120&section=footer" width="100%"/>
+SYSTEM TELEMETRY // 004
 
-</div>
+## Developer Activity
+
+**–**contributions this year
+
+**–**current streak
+
+**–**public repositories
+
+**–**top language
+
+Live stats can’t load inside this preview. Add a stats widget in your own deployment, with this fallback shown when it fails. [Open the GitHub profile](https://github.com/PhucLe186/)
+
+COMMUNICATION CHANNEL // 005
+
+## Let’s Connect Across The Universe
+
+Have an interesting project or want to discuss backend engineering? Let’s establish a connection.
+
+- [hoangphuckaito1806@gmail.com](mailto:hoangphuckaito1806@gmail.com)
+- [github.com/PhucLe186](https://github.com/PhucLe186/)
+- [phucspace.vercel.app](https://phucspace.vercel.app)
+
+Every great journey begins with a connection.
+
+PHUCVERSE © 2026 Le Hoang Phuc
